@@ -1,0 +1,2 @@
+En este proyecto de SmartDevices, utilicé el patrón state para simular el desbloqueo del teléfono, abrir cámara y hacer foto.
+Además, utilicé el patrón builder de modo a construir la instancia de una manera más ordenada, haciendo así el código más limpio. 
